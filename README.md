@@ -11,6 +11,6 @@ This Retrieval-Augmented Generation (RAG) system is specifically designed to ans
 ## Project Structure
 
 ├── Rag_project.py # Main RAG pipeline  
-├── 2411.15594v5.pdf # "A Survey on LLM-as-a-Judge" paper
-├── requirements.txt # Python dependencies
-└── README.md # This file
+├── 2411.15594v5.pdf # "A Survey on LLM-as-a-Judge" paper  
+├── requirements.txt # Python dependencies  
+└── README.md # This file  
