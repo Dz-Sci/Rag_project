@@ -13,4 +13,5 @@ This Retrieval-Augmented Generation (RAG) system is specifically designed to ans
 ├── Rag_project.py # Main RAG pipeline  
 ├── 2411.15594v5.pdf # "A Survey on LLM-as-a-Judge" paper  
 ├── requirements.txt # Python dependencies  
-└── README.md # This file  
+├── README.md # This file   
+└── evaluation method.txt # proposed evalutation method for my rag system  
