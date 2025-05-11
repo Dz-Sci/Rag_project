@@ -1,6 +1,6 @@
 # RAG System for LLM-as-a-Judge Analysis
 
-This Retrieval-Augmented Generation (RAG) system is specifically designed to answer a question from the paper ["A Survey on LLM-as-a-Judge"](https://arxiv.org/abs/2411.15594). It implements dense vector retrieval combined with Flan-T5 generation to provide accurate, context-aware answer.
+This Retrieval-Augmented Generation (RAG) system is specifically designed to answer a question from the paper ["A Survey on LLM-as-a-Judge"](https://arxiv.org/abs/2411.15594). It implements dense vector retrieval combined with Flan-T5 generation.
 ## Key Features
 
 - **Dense Vector Retrieval:** Uses `all-MiniLM-L6-v2` embeddings and FAISS for semantic search
